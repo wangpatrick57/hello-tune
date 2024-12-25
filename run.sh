@@ -2,4 +2,4 @@
 
 set -euo pipefail
 
-python main.py
+python agents/hello-tune/main.py
