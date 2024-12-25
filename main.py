@@ -1,3 +1,3 @@
-from gymlib import magic
+import gymlib
 
-print(magic.get_magic_number())
+print(gymlib.magic.get_magic_number())
